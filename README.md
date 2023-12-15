@@ -1,21 +1,13 @@
 ## Title
-
-NK Codes💛 - Age Calculator
+ Age Calculator
 
 ## Description 
 
 "Built with JavaScript, HTML, and CSS, this age calculator is a handy tool to quickly determine someone's age. Simply input the birthdate, and the calculator instantly calculates the precise age in years, months, and days. This intuitive web application offers a seamless user experience, making age calculations a breeze."
 ## Authors
 
--  [ NK💛](https://www.github.com/nishap24) 
+https://github.com/Rohith2002-da
 
-
-## Demo
-
-Live Demo:
-
-   https://nishap24.github.io/JS-Project-Day-6-Age-Calculator/ 
-    
 ## Getting Started
 
 To explore or modify the code, follow these steps:
@@ -39,29 +31,8 @@ To explore or modify the code, follow these steps:
 
 3. Cross-Device Compatibility: The age calculator is compatible with different devices, including desktops, laptops, tablets, and mobile phones. Although it may not be fully responsive, it ensures functionality across a range of screen sizes and resolutions. Whether you're accessing the calculator from a large desktop monitor or a smaller mobile screen, you can still perform age calculations with ease. The layout and design adapt to different devices, providing a satisfactory user experience across platforms.
 
-## Deployment Status
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0219a724-50d6-49cb-ab2f-8c32c2b42ad8/deploy-status)](https://app.netlify.com/sites/kanasu-age-calculator/deploys)
-
-## Contributing
-
-Contributions are always welcome!
-
-If you have any suggestions, improvements, or bug fixes, feel free to submit a pull request. Please ensure that your contributions align with the overall design and goals of the website. 
 
 
-## 🔗 Links
-
-For any questions or inquiries, please feel free to reach out. 
-
-NK :
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-nisha-p/)
+ 
 
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nishap24)
-
-[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_nisha_2407_)
-
-
-Thank you for visiting the page!
